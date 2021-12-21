@@ -923,5 +923,5 @@
 #                 s.append(num[i])
 # d = even(numbers)
 # print(d)
-duwhduwdhuwdhuwhdu
+lalalalalala
 
